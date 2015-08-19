@@ -13,6 +13,7 @@
     <sprite>sprites\spEraser</sprite>
     <sprite>sprites\spDesk</sprite>
     <sprite>sprites\spTimer</sprite>
+    <sprite>sprites\sprFlyingChalk</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bgd0</background>
@@ -52,6 +53,7 @@
     <object>objects\objEraser</object>
     <object>objects\obDesk</object>
     <object>objects\objChalkDrag</object>
+    <object>objects\objFlyingChalk</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rmClass25</room>
